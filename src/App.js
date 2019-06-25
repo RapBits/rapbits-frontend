@@ -14,7 +14,16 @@ class App extends Component {
     return (
       <div className="App">
         <div className='header'> 
-        <h2> RAPBITS </h2> 
+        <div className='logo_container'> 
+          <div className='logo'> <h2> RAPBITS </h2> </div> 
+          <div className='nav_menu'>
+            <ul class="menu_items">
+              <li> Songs </li> 
+              <li> About </li> 
+              <li> Contact </li> 
+            </ul>  
+          </div>
+        </div>
         </div> 
         <div className='hero_section'> 
           <div className='main_container'> 
