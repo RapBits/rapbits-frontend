@@ -8,7 +8,7 @@
     "react-bulma-components": "^2.3.0",
     "react-dom": "^16.4.2",
     "react-infinite-scroller": "^1.2.4",
-    "react-scripts": "1.1.5"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
